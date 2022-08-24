@@ -1,11 +1,11 @@
 {
-    "name": "Template Contoso", //YOUR_TEMPLATE_NAME_HERE
-    "description": "Template description", //YOUR_TEMPLATE_DESCRIPTION_HERE
-    "id": "template-contoso", //YOUR_TEMPLATE_ID_HERE
-    "previewGIF": "preview.gif", //YOUR_GIF_NAME_HERE
+    "name": "", //YOUR_TEMPLATE_NAME_HERE
+    "description": "", //YOUR_TEMPLATE_DESCRIPTION_HERE
+    "id": "", //YOUR_TEMPLATE_ID_HERE
+    "previewGIF": "", //YOUR_GIF_NAME_HERE
     "visibility": "Private", //Private_OR_Public
-    "owner": "contoso@contoso.com", //YOUR_OWNER_NAME_HERE
-    "tags": "tag1, tag2", //YOUR_TAGS_HERE
+    "owner": "", //YOUR_OWNER_NAME_HERE
+    "tags": "", //YOUR_TAGS_HERE - tags 1, tags 2
     "scenes": //LIST_YOUR_SCENES_HERE 
     [
         "scene1",

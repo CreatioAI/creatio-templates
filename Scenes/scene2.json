@@ -2,7 +2,7 @@
     "id": "scene2", //YOUR_SCENE_ID_HERE
     "type": "Type example", //YOUR_SCENE_TYPE_HERE
     "name": "Name example", //YOUR_SCENE_NAME_HERE
-    "video": "video1.mp4", //YOUR_VIDEO_NAME_HERE
+    "video": "scene_video.mp4", //YOUR_VIDEO_NAME_HERE
     "parameters": [
         {
             "id": "variable_name3", //YOUR_VARIABLE_NAME_HERE
